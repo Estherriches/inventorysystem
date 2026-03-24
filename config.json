@@ -3,5 +3,10 @@
         "name": "coco butter",
         "price": 23.0,
         "quantity": 50
+    },
+    {
+        "name": "pomade",
+        "price": 20.0,
+        "quantity": 15
     }
 ]
